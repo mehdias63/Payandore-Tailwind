@@ -3,7 +3,7 @@ module.exports = {
 	theme: {
 		extend: {
 			fontFamily: {
-				sans: ['vazir'],
+				vazir: ['Vazir', 'sans-serif'],
 			},
 		},
 	},
